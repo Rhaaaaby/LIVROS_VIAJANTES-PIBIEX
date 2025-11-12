@@ -67,6 +67,7 @@ jest-html-reporters-*
 # Local environment
 *.local
 *.envrc
+.env
 
 # OneDrive / Windows / sistema
 ~$*
